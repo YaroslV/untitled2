@@ -1,0 +1,7 @@
+
+1	"1 kopiyka"		1		Ukraine	0		
+2	"2 kopiyky"		2		Ukraine	0		
+3	"5 kopiyok"		5		Ukraine	0		
+4	"10 kopiyok"		10		Ukraine	0		
+5	"25 kopiyok"		25		Ukraine	0		
+6	2	Alluminium	2	NULL	Ukraine	1	NULL	1
